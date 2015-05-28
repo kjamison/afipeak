@@ -1,4 +1,4 @@
-#![AFI icon](https://raw.githubusercontent.com/kjamison/afipeak/master/afipeak_icon_128.png) afipeak
+#![AFI icon](https://raw.githubusercontent.com/kjamison/afipeak/master/afipeak_icon_64x64.png) afipeak
 MATLAB package for computing flip angles from Dual-TR B1 mapping acquisitions
 
 Flip angle computation from:
